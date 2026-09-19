@@ -1,1 +1,1 @@
-# NexChat-Backend
+# NexChat-app
